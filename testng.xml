@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests">
+    <test thread-count="2" name="Test" parallel="methods" >
+        <classes>
+            <class name="com.mkm.tests.LoginpageTest" />
+            <class name="com.mkm.tests.HomepageTest" />
+
+        </classes>
+    </test>
+
+</suite>

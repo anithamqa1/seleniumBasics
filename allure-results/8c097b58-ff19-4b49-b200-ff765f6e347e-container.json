@@ -1,0 +1,1 @@
+{"uuid":"8c097b58-ff19-4b49-b200-ff765f6e347e","name":"com.mkm.tests.BaseTest.setUp","children":["b0f77cf6-d44b-4847-b411-b2dbfe8d032f"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1674954394784,"stop":1674954397932}],"afters":[],"start":1674954394784,"stop":1674954397933}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-28T17:07:28 PST" name="Command line suite" finished-at="2023-01-28T17:07:39 PST" duration-ms="10800">
+    <groups>
+    </groups>
+    <test started-at="2023-01-28T17:07:28 PST" name="Command line test" finished-at="2023-01-28T17:07:39 PST" duration-ms="10800">
+      <class name="com.mkm.tests.LoginpageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mkm.tests.LoginpageTest@6631f5ca]" started-at="2023-01-28T17:07:34 PST" name="setUp" finished-at="2023-01-28T17:07:36 PST" duration-ms="2041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:com.mkm.tests.LoginpageTest@6631f5ca]" started-at="2023-01-28T17:07:36 PST" name="test1" description="searching for selenium test in google page" finished-at="2023-01-28T17:07:39 PST" duration-ms="2712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mkm.tests.LoginpageTest@6631f5ca]" started-at="2023-01-28T17:07:39 PST" name="tearDown" finished-at="2023-01-28T17:07:39 PST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mkm.tests.LoginpageTest -->
+      <class name="com.mkm.tests.HomepageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mkm.tests.HomepageTest@2accdbb5]" started-at="2023-01-28T17:07:28 PST" name="setUp" finished-at="2023-01-28T17:07:32 PST" duration-ms="3146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:com.mkm.tests.HomepageTest@2accdbb5]" started-at="2023-01-28T17:07:32 PST" name="test2" finished-at="2023-01-28T17:07:34 PST" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mkm.tests.HomepageTest@2accdbb5]" started-at="2023-01-28T17:07:34 PST" name="tearDown" finished-at="2023-01-28T17:07:34 PST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mkm.tests.HomepageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
